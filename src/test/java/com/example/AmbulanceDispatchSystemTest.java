@@ -91,7 +91,7 @@ public class AmbulanceDispatchSystemTest {
         system.addAmbulance(
                 createBasic("AMB101", 5));
 
-        system.addALS(
+        system.addAmbulance(
                 createALS("AMB102", 3));
 
         system.addAmbulance(
